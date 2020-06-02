@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\Desktop\\C#Project\\Blog\\BlogMvc\\WebApplication1\\BlogApplication.csproj": {}
+    "C:\\Users\\felip\\Desktop\\Blog\\BlogMvc\\WebApplication1\\BlogApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\Desktop\\C#Project\\Blog\\BlogMvc\\WebApplication1\\BlogApplication.csproj": {
+    "C:\\Users\\felip\\Desktop\\Blog\\BlogMvc\\WebApplication1\\BlogApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\Desktop\\C#Project\\Blog\\BlogMvc\\WebApplication1\\BlogApplication.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\Desktop\\Blog\\BlogMvc\\WebApplication1\\BlogApplication.csproj",
         "projectName": "BlogApplication",
-        "projectPath": "C:\\Users\\felip\\Desktop\\C#Project\\Blog\\BlogMvc\\WebApplication1\\BlogApplication.csproj",
+        "projectPath": "C:\\Users\\felip\\Desktop\\Blog\\BlogMvc\\WebApplication1\\BlogApplication.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\Desktop\\C#Project\\Blog\\BlogMvc\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\felip\\Desktop\\Blog\\BlogMvc\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,34 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
