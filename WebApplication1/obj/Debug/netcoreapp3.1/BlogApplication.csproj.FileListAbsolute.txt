@@ -87,7 +87,6 @@ C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\Blog
 C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\BlogApplication.TagHelpers.input.cache
 C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\BlogApplication.TagHelpers.output.cache
 C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\BlogApplication.RazorCoreGenerate.cache
-C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
 C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Post.cshtml.g.cs
 C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -150,3 +149,6 @@ C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\bin\Debug\netcoreapp3.1\Micr
 C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\BlogApplication.csproj.CoreCompileInputs.cache
 C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\BlogApplication.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\BlogApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\felip\Desktop\Blog\BlogMvc\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Panel\Edit.cshtml.g.cs
